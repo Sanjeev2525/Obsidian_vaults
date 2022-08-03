@@ -6,9 +6,10 @@ if [ ${#gstatus} -ne 0 ]
 then
 
     git add --all
-    git commit -m "$gstatus"
+    sleep 10
+    git commit -m "Automated sync:" "$gstatus"
     sleep 10 
-    git pull
+    git pull --rebase
     git push
 
 fi
