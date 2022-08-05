@@ -7,8 +7,7 @@ then
 
     git add --all
     git commit -m "$gstatus"
-    sleep 10
-	git pull
+    	git pull
     git push
     sleep 10
 fi
