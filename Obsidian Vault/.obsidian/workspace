@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md",
+            "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md",
+                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md",
+                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md"
+                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "d1d3f2ad9c261365",
   "lastOpenFiles": [
-    "SEMESTER-V/Machine learning/UNIT-1/Introduction/0.Introduction.md",
-    "SEMESTER-V/Machine learning/SYLLABUS/SYLLABUS.md",
-    "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md",
-    "SEMESTER-V/Machine learning/UNIT-1/Attachments/Pasted image 20220912212121.png",
-    "html colors/Untitled.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-1/Introduction to internet/0.INTRODUCTION TO INTERNET.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/1.Principles of Network applications.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/7.Socket programming _Creating Network applications.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/5.Peer-to-peer applications.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/4.DNS-Internet’s directory service.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/Attachments/Pasted image 20220914204209.png",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/Attachments/Picture1.png",
+    "SEMESTER-V/Machine learning/UNIT-1/Attachments/Pasted image 20220913214632.png",
     "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/2.The web and HTTP.md",
     "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/3.Electronic mail in the Internet.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/4.DNS-Internet’s directory service.md"
+    "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md"
   ]
 }
