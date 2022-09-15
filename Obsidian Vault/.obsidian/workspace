@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
+            "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/4.Principles of reliable data transfer.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
+                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/4.Principles of reliable data transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
+                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/4.Principles of reliable data transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md"
+                "file": "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/4.Principles of reliable data transfer.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "d1d3f2ad9c261365",
   "lastOpenFiles": [
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/7.Socket programming _Creating Network applications.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/6.Video Streaming and content distribution networks.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/5.Peer-to-peer applications.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/4.DNS-Internet’s directory service.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/Attachments/Pasted image 20220914204209.png",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/Attachments/Picture1.png",
-    "SEMESTER-V/Machine learning/UNIT-1/Attachments/Pasted image 20220913214632.png",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/2.The web and HTTP.md",
-    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/3.Electronic mail in the Internet.md",
-    "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md"
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/2.Multiplexing and demultiplexing.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/3.Connectionless transport  UDP.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/1.Introduction and transport layer services.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/6.Principles of congestion control.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/7.TCP congestion control.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/Transport Layer/02.Transport Layer.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/5.Connection-oriented transport TCP.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-3/4.Principles of reliable data transfer.md",
+    "html colors/Untitled.md",
+    "SEMESTER-V/COMPUTER NETWORKS/UNIT-2/Application layer/1.Application layer.md"
   ]
 }
