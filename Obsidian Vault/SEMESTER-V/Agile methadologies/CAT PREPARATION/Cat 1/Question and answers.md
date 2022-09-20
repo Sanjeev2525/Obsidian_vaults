@@ -292,7 +292,7 @@ Disadvantages :
 - Use of inefficient Algorithm
 
 ---
-##### Spiral model 
+###### Spiral model 
 ![[Pasted image 20220919223223.png]]
 ![[Pasted image 20220919223238.png]]
 

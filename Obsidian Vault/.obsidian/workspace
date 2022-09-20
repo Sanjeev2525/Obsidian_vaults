@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d3f2ad9c261365",
+        "id": "e7a6986a684943ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Question and answers.md",
+            "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Question and answers.md",
+                "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Question and answers.md",
+                "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +117,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Question and answers.md"
+                "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md"
               }
+            }
+          },
+          {
+            "id": "321a59d7ab41b8dc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -128,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d1d3f2ad9c261365",
+  "active": "e7a6986a684943ba",
   "lastOpenFiles": [
-    "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Attachments/Pasted image 20220919201327.png",
+    "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920211648.png",
+    "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920205052.png",
+    "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920190310.png",
+    "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920203143.png",
+    "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
     "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Question and answers.md",
-    "html colors/Untitled.md",
-    "SEMESTER-V/Machine learning/CATs/CAT 1/Problems.md",
     "SEMESTER-V/Machine learning/CATs/CAT 1/CAT 1 preparation.md",
-    "SEMESTER-V/Machine learning/UNIT-1/2.Designing a learning system.md",
-    "SEMESTER-V/Machine learning/SYLLABUS/SYLLABUS.md",
-    "SEMESTER-V/Machine learning/UNIT-1/3.Perspective and issues in machine learning.md",
-    "SEMESTER-V/Machine learning/UNIT-1/1.Learning Problems.md",
-    "SEMESTER-V/Machine learning/UNIT-1/Introduction/0.Introduction.md"
+    "Untitled.md",
+    "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Attachments/Pasted image 20220919201327.png",
+    "html colors/Untitled.md"
   ]
 }

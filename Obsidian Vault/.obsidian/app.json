@@ -2,5 +2,6 @@
   "promptDelete": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Attachments"
+  "attachmentFolderPath": "SEMESTER-V/Building Enterprise Application/Attachments",
+  "fileSortOrder": "alphabeticalReverse"
 }
