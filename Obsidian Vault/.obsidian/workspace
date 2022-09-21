@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
+            "file": "SEMESTER-V/ECM/Q and A/Questions and Answers(Cat-1).md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
+                "file": "SEMESTER-V/ECM/Q and A/Questions and Answers(Cat-1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
+                "file": "SEMESTER-V/ECM/Q and A/Questions and Answers(Cat-1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md"
+                "file": "SEMESTER-V/ECM/Q and A/Questions and Answers(Cat-1).md"
               }
             }
           },
@@ -138,15 +138,15 @@
   },
   "active": "e7a6986a684943ba",
   "lastOpenFiles": [
+    "html colors/Untitled.md",
+    "SEMESTER-V/ECM/Q and A/Questions and Answers(Cat-1).md",
+    "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
     "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920211648.png",
     "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920205052.png",
     "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920190310.png",
     "SEMESTER-V/Building Enterprise Application/Attachments/Pasted image 20220920203143.png",
-    "SEMESTER-V/Building Enterprise Application/Q and A/Questions and Answers(CAT-1).md",
     "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Question and answers.md",
     "SEMESTER-V/Machine learning/CATs/CAT 1/CAT 1 preparation.md",
-    "Untitled.md",
-    "SEMESTER-V/Agile methadologies/CAT PREPARATION/Cat 1/Attachments/Pasted image 20220919201327.png",
-    "html colors/Untitled.md"
+    "Untitled.md"
   ]
 }
